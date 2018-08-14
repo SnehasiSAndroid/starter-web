@@ -11,6 +11,10 @@ various commands using a web project.
 
 ## Deployment
 
+This is a simple web project
+
 ## Purpose
+
+The Main purpose is to provide simple example.
 
 Sample website with plenty of files for demos
