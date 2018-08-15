@@ -21,4 +21,9 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
+<<<<<<< HEAD
 2018 Git.training Copyright reserved
+=======
+2018 Git.training copyright reserved.
+All rights
+>>>>>>> add-copyright
