@@ -21,4 +21,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-2018 Git.training
+2018 Git.training Copyright reserved
