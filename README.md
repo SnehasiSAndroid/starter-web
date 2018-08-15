@@ -18,3 +18,7 @@ This is a simple web project
 The Main purpose is to provide simple example.
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2018 Git.training
