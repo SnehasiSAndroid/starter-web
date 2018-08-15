@@ -13,6 +13,10 @@ various commands using a web project.
 
 This is a simple web project
 
+### How to contribute
+
+Just fork this project anf pull
+
 ## Purpose
 
 The Main purpose is to provide simple example.
@@ -21,9 +25,5 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-<<<<<<< HEAD
-2018 Git.training Copyright reserved
-=======
 2018 Git.training copyright reserved.
 All rights
->>>>>>> add-copyright
