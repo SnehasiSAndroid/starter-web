@@ -3,7 +3,8 @@
 This is a simple website project showing how to use git 
 and github together.
 This repository is for showing how Git and GitHub work.
-Adding a line for rebasing example.
+Adding a line for rebasing example.the more changes from myfeature 
+branch.
 
 ## Introduction
 
